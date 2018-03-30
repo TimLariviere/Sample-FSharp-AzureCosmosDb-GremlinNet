@@ -3,7 +3,6 @@
 open System
 open System.IO
 open Microsoft.Extensions.Configuration
-open FSharp.Control
 open Gremlin.Net.Driver
 open Gremlin.Net.Structure.IO.GraphSON
 open System.Collections.Generic
